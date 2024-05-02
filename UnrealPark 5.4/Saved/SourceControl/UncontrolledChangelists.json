@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jay_e/Downloads/Unreal/24sp-csg3013-unrealexercise-ariannarose9150/UnrealPark 5.4/Content/Audio/S_ParkPlaying_BKG.uasset",
+				"C:/Users/jay_e/Downloads/Unreal/24sp-csg3013-unrealexercise-ariannarose9150/UnrealPark 5.4/Content/Audio/SX_ScratchingMetal.uasset",
+				"C:/Users/jay_e/Downloads/Unreal/24sp-csg3013-unrealexercise-ariannarose9150/UnrealPark 5.4/Content/Maps/Park.umap",
+				"C:/Users/jay_e/Downloads/Unreal/24sp-csg3013-unrealexercise-ariannarose9150/UnrealPark 5.4/Content/BluePrints/SM_Gate_Blueprint.uasset"
+			]
+		}
+	]
+}
